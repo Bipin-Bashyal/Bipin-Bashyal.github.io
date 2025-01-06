@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="bipinkfdbhsjadf.css">
     <title>Photo Details</title>
     <h1>
         They say what did you see in her I couldn't explain to all of them as it takes minimum of eternity to describe her so I made this 
